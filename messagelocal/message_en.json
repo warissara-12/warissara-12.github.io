@@ -1,8 +1,8 @@
 {
-    "LB0000": "Update date : 16/05/2026",
+    "LB0000": "Update date : 19/09/2023",
     "LB0001": "Warissara Tambun",
-    "LB0002": "Weight 50 kg.",
-    "LB0003": "Height 163 cm.",
+    "LB0002": "Weight 43 kg.",
+    "LB0003": "Height 164 cm.",
     "LB0004": "Personal Information",
     "LB0005": "Education",
     "LB0006": "Career Objective",
@@ -26,8 +26,5 @@
     "LB0024": "cashier",
     "LB0025": "June 2024 - Oct 2024",
     "LB0026": "Software developer",
-    "LB0027": "Kasira House Company Limited",
-    "LB0028": "may 2025 - Present",
-    "LB0029": "Programmer",
-    "LB00210": "Thanes Group"
+    "LB0027": "Kasira House Company Limited"
 }
